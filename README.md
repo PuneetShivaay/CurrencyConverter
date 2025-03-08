@@ -1,12 +1,17 @@
-# React + Vite
+# Currency Converter App using React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Currency Converter App using Custom Hooks and Backend Api
 
-Currently, two official plugins are available:
+## Some Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Not deployed this app to Otical Tools Site : https://oticaltextutils.web.app/
 
-## Expanding the ESLint configuration
+![{8A949779-7C98-4071-8ECF-97F4B4EE6F2D}](https://github.com/user-attachments/assets/b25d6e1b-746b-4b71-abf7-881d2b979358)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![{2353CCAC-6517-4A4E-8541-101D1961C84F}](https://github.com/user-attachments/assets/cf84eb52-fc4f-47ff-b8c3-fa1cae0c5804)
+
+![{D6292A0B-86E9-49BA-A0F8-CDDD4378D9B6}](https://github.com/user-attachments/assets/986c7ca0-8f56-4003-a92f-b2a749220b45)
+
+
+
+
